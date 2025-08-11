@@ -1,5 +1,5 @@
 
-.app-container[data-v-57d47172] {
+.app-container[data-v-5fe55788] {
     color: #21072c;
     position: absolute;
     top: 0;
@@ -11,13 +11,13 @@
     padding: 20px;
     font-family: Arial, sans-serif;
 }
-h1[data-v-57d47172],
-h2[data-v-57d47172],
-h3[data-v-57d47172] {
+h1[data-v-5fe55788],
+h2[data-v-5fe55788],
+h3[data-v-5fe55788] {
     color: #2c3e50;
 }
-.file-upload-panel[data-v-57d47172],
-.control-panel[data-v-57d47172] {
+.file-upload-panel[data-v-5fe55788],
+.control-panel[data-v-5fe55788] {
     background-color: #f9f9f9;
     border-radius: 8px;
     padding: 20px;
@@ -25,10 +25,10 @@ h3[data-v-57d47172] {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     pointer-events: all;
 }
-.file-input-container[data-v-57d47172] {
+.file-input-container[data-v-5fe55788] {
     margin-bottom: 15px;
 }
-.file-input[data-v-57d47172] {
+.file-input[data-v-5fe55788] {
     width: 0.1px;
     height: 0.1px;
     opacity: 0;
@@ -36,7 +36,7 @@ h3[data-v-57d47172] {
     position: absolute;
     z-index: -1;
 }
-.file-input-label[data-v-57d47172] {
+.file-input-label[data-v-5fe55788] {
     display: inline-block;
     padding: 10px 15px;
     background-color: #42b983;
@@ -44,14 +44,14 @@ h3[data-v-57d47172] {
     cursor: pointer;
     transition: background-color 0.3s;
 }
-.file-input-label[data-v-57d47172]:hover {
+.file-input-label[data-v-5fe55788]:hover {
     background-color: #3aa876;
 }
-.file-name[data-v-57d47172] {
+.file-name[data-v-5fe55788] {
     margin-left: 10px;
     color: #666;
 }
-.upload-button[data-v-57d47172] {
+.upload-button[data-v-5fe55788] {
     padding: 10px 15px;
     background-color: #3498db;
     border: none;
@@ -59,41 +59,41 @@ h3[data-v-57d47172] {
     cursor: pointer;
     transition: background-color 0.3s;
 }
-.upload-button[data-v-57d47172]:hover {
+.upload-button[data-v-5fe55788]:hover {
     background-color: #2980b9;
 }
-.upload-button[data-v-57d47172]:disabled {
+.upload-button[data-v-5fe55788]:disabled {
     background-color: #95a5a6;
     cursor: not-allowed;
 }
-.upload-status[data-v-57d47172] {
+.upload-status[data-v-5fe55788] {
     margin-top: 10px;
 }
-.uploaded-files[data-v-57d47172] {
+.uploaded-files[data-v-5fe55788] {
     margin-top: 20px;
 }
-.uploaded-files ul[data-v-57d47172] {
+.uploaded-files ul[data-v-5fe55788] {
     list-style-type: none;
     padding: 0;
 }
-.uploaded-files li[data-v-57d47172] {
+.uploaded-files li[data-v-5fe55788] {
     padding: 8px 0;
     border-bottom: 1px solid #eee;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.remove-button[data-v-57d47172] {
+.remove-button[data-v-5fe55788] {
     padding: 5px 10px;
     background-color: #e74c3c;
     border: none;
     border-radius: 4px;
     cursor: pointer;
 }
-.remove-button[data-v-57d47172]:hover {
+.remove-button[data-v-5fe55788]:hover {
     background-color: #c0392b;
 }
-.control-panel[data-v-57d47172] {
+.control-panel[data-v-5fe55788] {
 
     display: flex;
     flex-direction: column;
@@ -102,11 +102,11 @@ h3[data-v-57d47172] {
     right: 50px;
     top: 50px;
 }
-.buttons-group[data-v-57d47172] {
+.buttons-group[data-v-5fe55788] {
     display: flex;
     gap: 10px;
 }
-.control-button[data-v-57d47172] {
+.control-button[data-v-5fe55788] {
     flex: 1;
     padding: 10px;
     background-color: #341e3d;
@@ -117,30 +117,30 @@ h3[data-v-57d47172] {
     transition: background-color 0.3s;
     width: 100px;
 }
-.control-button[data-v-57d47172]:hover {
+.control-button[data-v-5fe55788]:hover {
     background-color: #21072c;
 }
-.switches-group[data-v-57d47172] {
+.switches-group[data-v-5fe55788] {
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
-.switch-container[data-v-57d47172] {
+.switch-container[data-v-5fe55788] {
     display: flex;
     align-items: center;
     gap: 10px;
 }
-.sliders-group[data-v-57d47172] {
+.sliders-group[data-v-5fe55788] {
     display: flex;
     flex-direction: column;
     gap: 15px;
 }
-.slider-container[data-v-57d47172] {
+.slider-container[data-v-5fe55788] {
     display: flex;
     flex-direction: column;
     gap: 5px;
 }
-.slider[data-v-57d47172] {
+.slider[data-v-5fe55788] {
     width: 100%;
 }
 
